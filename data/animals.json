@@ -1,0 +1,26 @@
+[{  
+    "name":"Fluffy",
+    "description":"An image of my dog when he was a puppy",
+    "imgURL":"images/dog.jpeg"
+ },
+ {  
+    "name":"Orion",
+    "description":"An image of my cat when he was a kitten",
+    "imgURL":"images/cat.jpg"
+ },
+ {  
+    "name":"Beowulf",
+    "description":"An image of a wolf",
+    "imgURL":"images/wolf.png"
+},
+{  
+   "name":"Black Beauty",
+   "description":"An image of a horse",
+   "imgURL":"images/horse.jpg"
+},
+{  
+   "name":"Squirt",
+   "description":"An image of dolphin",
+   "imgURL":"images/dolphin.jpg"
+}]
+
